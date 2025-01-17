@@ -1,0 +1,29 @@
+commit bc9994df6160128959e67d8adf8880d038206a64
+Author: Cody <Codyla2313@gmail.com>
+Date:   Fri Jan 17 13:28:42 2025 -0300
+
+    Create README.md
+
+commit 639fdd6ab5eaa548f4249d2bd5f39960e4f6d0ad
+Author: JoaoPedro-Cody <codyla2313@gmail.com>
+Date:   Fri Jan 17 13:13:44 2025 -0300
+
+    Git
+
+commit c00827190c459df72b6edf746ff6cd160e1930dc
+Author: JoaoPedro-Cody <codyla2313@gmail.com>
+Date:   Fri Jan 17 13:12:45 2025 -0300
+
+    Unversioned FIles
+
+commit 7b414f6f74ccb074a22b6d56f6d6d88c5fdf8163
+Author: JoaoPedro-Cody <codyla2313@gmail.com>
+Date:   Fri Jan 17 13:12:24 2025 -0300
+
+    Remove ResponsiveVOice
+
+commit 53e5e10417084f13b4cc4fa9f53e77499a53ede1
+Author: JoaoPedro-Cody <codyla2313@gmail.com>
+Date:   Fri Jan 17 13:07:51 2025 -0300
+
+    Jogo
